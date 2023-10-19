@@ -1,0 +1,8 @@
+## Interface: 100107
+## Title: KeyScoreHistory
+## Version: 0.1
+## Author: Fuloh
+## Notes: Enregistre les scores des joueurs basés sur les donjons terminés.
+## SavedVariables: KeyScoreHistoryDB
+
+KeyScoreHistory.lua
